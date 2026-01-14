@@ -27,3 +27,7 @@ Open in Claude Code and run `/init` to initialize the workspace.
 ---
 
 Based on the [Claude Preparedness Planner](https://github.com/danielrosehill/Claude-Preparedness-Planner) concept, adapted for formal business continuity management.
+
+---
+
+For more Claude Code projects, visit my [Claude Code Repos Index](https://github.com/danielrosehill/Claude-Code-Repos-Index).
